@@ -20,3 +20,6 @@ GAME RULES(SCORING):
 * **Sipahi (Soldier):** +500 points.
 * **Mantri (Minister):** * If they guess the Chor correctly: +800 points (Chor gets 0).
 *  * If they guess wrong: 0 points (Chor gets 800).
+
+(NOTE: This game not solely Made by me , 30% of credit goes to my friend . 
+He doesnt want to Mention his Name);
